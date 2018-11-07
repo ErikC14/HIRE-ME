@@ -5,8 +5,8 @@ html{
 font-family: 'Abril Fatface', cursive;
 }
 img{
-    height:361px;
-    width:300px;
+    height:561px;
+    width:500px;
 }
 img{
     border:dotted;
@@ -15,5 +15,6 @@ h1{
     font-family: 'Unica One', cursive;
     color:red;
 }
-body{
-    background-image: url
+html{
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&h=350");
+}
